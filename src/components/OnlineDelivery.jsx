@@ -41,7 +41,7 @@ export default function OnlineDelivery() {
     <div className="max-w-[1200px] mx-auto" ref={componentRef}>
       <div className="flex my-5 items-center justify-between">
         <div className="text-[25px] font-bold">
-          Restaurant with online food in Jodhpur
+          Restaurant with online food in Agra
         </div>
       </div>
       <div

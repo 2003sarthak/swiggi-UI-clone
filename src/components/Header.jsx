@@ -85,9 +85,9 @@ export default function Header() {
           </div>
           <div>
             <span className="font-bold border-b-[3px] border-[black]">
-              Ratanada
+              Pratap Nagar
             </span>{" "}
-            Jodpur, Rajasthan, India{" "}
+            Agra, Uttar Pradesh, India{" "}
             <RxCaretDown
               onClick={showsidemenu}
               className="font-bold inline text-[#fc8019] text-[1.2rem] cursor-pointer"
