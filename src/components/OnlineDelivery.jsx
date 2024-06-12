@@ -54,7 +54,7 @@ export default function OnlineDelivery() {
           <div
             key={index}
             className={`p-3 border border-solid border-[#3636362d] rounded-[30px] shadow-sm ${
-              isSmallScreen && index >= 4 ? 'hidden sm:block' : ''
+              isSmallScreen && index >= 3 ? 'hidden sm:block' : ''
             }`}
           >
             {data.title}
